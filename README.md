@@ -28,9 +28,7 @@ A simple CRUD REST API for managing books and author — built with Spring Boot
 ```json
 {
   "title": "Clean Code",
-  "author": "Robert C. Martin",
-  "isbn": "9780132350884",
-  "publishedDate": "2008-08-01",
-  "availableCopies": 5
+  "price": 699",
+  "authorId":1
 }
 
