@@ -25,7 +25,6 @@ A simple CRUD REST API for managing books and author — built with Spring Boot
 
 ## 📬 Example JSON (POST /books)
 
-###book
 ```json
 {
   "title": "The Art Of Spring Boot",
@@ -33,8 +32,7 @@ A simple CRUD REST API for managing books and author — built with Spring Boot
   "authorId":1
 }
 
-###author
-```json
+
 {
    "id":1
   "name": "vek",
