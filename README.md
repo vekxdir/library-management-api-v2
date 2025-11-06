@@ -23,7 +23,7 @@ A simple CRUD REST API for managing books and author — built with Spring Boot
 3. Run the app:
      mvn spring-boot:run
 
-## 📬 Example JSON (POST /books)
+## 📬 Example JSON (books & author)
 
 ```json
 {
